@@ -1,4 +1,4 @@
-<!-- README.md (use this as your main GitHub Profile README) -->
+<!-- README.md -->
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C5FF&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Guddu+Mishra!;System+Design+%F0%9F%92%BB+LLD+and+HLD+Expert;AI+Tools+Enthusiast+%F0%9F%92%A1;MERN+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-Hi, I'm Guddu Mishra, a passionate Full Stack Developer, System Design Enthusiast (LLD & HLD), and AI Tools Explorer! <br>
+Hi, I'm <b>Guddu Mishra</b>, a passionate Full Stack Developer, System Design Enthusiast (LLD & HLD), and AI Tools Explorer! <br>
 I love building scalable systems and exploring creative AI applications like ChatGPT, Midjourney, Copilot, and more.
 </p>
 
@@ -34,41 +34,17 @@ I love building scalable systems and exploring creative AI applications like Cha
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<div align="center" style="margin-top:20px;">
+<div align="center">
 
-  <table style="border-collapse: collapse; width: 80%; font-size: 18px;">
-    <thead>
-      <tr style="background-color: #00c5ff; color: white;">
-        <th style="padding: 10px; border: 1px solid #ddd;">Area</th>
-        <th style="padding: 10px; border: 1px solid #ddd;">Technologies</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr onmouseover="this.style.backgroundColor='#e0f7fa';" onmouseout="this.style.backgroundColor='white';">
-        <td style="padding: 10px; border: 1px solid #ddd;">Frontend</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">HTML, CSS, JavaScript, React.js</td>
-      </tr>
-      <tr onmouseover="this.style.backgroundColor='#e0f7fa';" onmouseout="this.style.backgroundColor='white';">
-        <td style="padding: 10px; border: 1px solid #ddd;">Backend</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">Node.js, Express.js</td>
-      </tr>
-      <tr onmouseover="this.style.backgroundColor='#e0f7fa';" onmouseout="this.style.backgroundColor='white';">
-        <td style="padding: 10px; border: 1px solid #ddd;">Database</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">MongoDB, PostgreSQL</td>
-      </tr>
-      <tr onmouseover="this.style.backgroundColor='#e0f7fa';" onmouseout="this.style.backgroundColor='white';">
-        <td style="padding: 10px; border: 1px solid #ddd;">System Design</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">LLD, HLD, Caching, Load Balancing</td>
-      </tr>
-      <tr onmouseover="this.style.backgroundColor='#e0f7fa';" onmouseout="this.style.backgroundColor='white';">
-        <td style="padding: 10px; border: 1px solid #ddd;">AI Tools</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">OpenAI, Midjourney, Copilot APIs</td>
-      </tr>
-    </tbody>
-  </table>
+| Area            | Technologies                    |
+|-----------------|----------------------------------|
+| **Frontend**    | HTML, CSS, JavaScript, React.js  |
+| **Backend**     | Node.js, Express.js              |
+| **Database**    | MongoDB, PostgreSQL              |
+| **System Design** | LLD, HLD, Caching, Load Balancing |
+| **AI Tools**    | OpenAI, Midjourney, Copilot APIs |
 
 </div>
-
 
 <br>
 
@@ -96,14 +72,14 @@ I love building scalable systems and exploring creative AI applications like Cha
 <h2 align="center">⚡ Let's Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guddu-mishra-6a3886317/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="aatharvmis2003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/guddu-mishra-6a3886317/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aatharvmis2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<script>
-  // For little interactivity
-  console.log("🚀 Welcome to my GitHub Profile! :)")
-</script>
-
+<!-- No JavaScript in GitHub README -->
